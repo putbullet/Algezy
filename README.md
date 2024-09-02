@@ -37,9 +37,9 @@ To use this tool, you'll need to install the required Python packages. Follow th
    python main.py
     
 4. **Follow the On-Screen Instructions**
-   ![Math Swiss Army Knife](./Algezy.png)
+   ![Math Swiss Army Knife](./algezy.png)
 
-   ![Math Swiss Army Knife in action](./Algezy2.png)
+   ![Math Swiss Army Knife in action](./algzy2.png)
 
 ## Project Status
 
