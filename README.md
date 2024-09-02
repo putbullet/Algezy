@@ -6,7 +6,7 @@
 
 ## Description
 
-The **Math Swiss Army Knife** is a Python script designed to provide a comprehensive suite of mathematical operations for students and math enthusiasts. This tool aims to simplify matrix operations, solve equations, and perform various mathematical calculations all in one place. It is particularly useful for those who need quick and easy access to mathematical functionalities without the hassle of dealing with complex libraries.
+The **Math Swiss Army Knife** is a Python script designed to provide a comprehensive suite of mathematical operations for students and math enthusiasts. This tool aims to simplify matrix operations, solve equations, and perform various mathematical calculations all in one place. It benefits those who need quick and easy access to mathematical functionalities without the hassle of dealing with complex libraries.
 
 ## Features
 
@@ -16,7 +16,7 @@ The **Math Swiss Army Knife** is a Python script designed to provide a comprehen
 
 ## Installation
 
-To use this tool, you'll need to install the required Python packages. Follow these steps:
+You'll need to install the required Python packages to use this tool. Follow these steps:
 
 1. **Clone the Repository:**
 
@@ -27,7 +27,7 @@ To use this tool, you'll need to install the required Python packages. Follow th
 
 ## How to Use
 
-2. **nstall the Required Packages:**
+2. **Install the Required Packages:**
 
    ```bash
    pip install -r requirements.txt
