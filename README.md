@@ -37,14 +37,9 @@ To use this tool, you'll need to install the required Python packages. Follow th
    python main.py
     
 4. **Follow the On-Screen Instructions**
-   <p align="center">
-  <img src="https://briefer.pro/images/pictures/blog/victorinox-5.jpeg" alt="Math Swiss Army Knife" width="400" height="375"/>
-</p>
+   ![Math Swiss Army Knife](./Algezy.png)
 
-<p align="center">
-  <img src="https://briefer.pro/images/pictures/blog/victorinox-5.jpeg" alt="Math Swiss Army Knife" width="400" height="375"/>
-</p>
-
+   ![Math Swiss Army Knife in action](./Algezy2.png)
 
 ## Project Status
 
