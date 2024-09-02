@@ -1,89 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Math Swiss Army Knife</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .image-container {
-            text-align: center;
-        }
-        .image-container img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
+# Math Swiss Army Knife { ALGEZY }
 
-    <h1>Math Swiss Army Knife</h1>
-    <p>Welcome to the Math Swiss Army Knife project! This Python script is designed to assist students and math users by providing a versatile tool for various matrix calculations. It aims to cover a wide range of mathematical operations all in one place.</p>
+<p align="center">
+  <img src="https://briefer.pro/images/pictures/blog/victorinox-5.jpeg" alt="Math Swiss Army Knife" width="400" height="375"/>
+</p>
 
-    <div class="section">
-        <h2>Features</h2>
-        <ul>
-            <li>Matrix Addition</li>
-            <li>Matrix Subtraction</li>
-            <li>Matrix Multiplication (by scalar and another matrix)</li>
-            <li>Matrix Transposition</li>
-            <li>Determinant Calculation</li>
-            <li>Matrix Inversion</li>
-            <li>Element-wise Matrix Multiplication</li>
-        </ul>
-    </div>
+## Description
 
-    <div class="section">
-        <h2>Installation</h2>
-        <p>To use this script, you'll need to install the required Python libraries. You can do this using the <code>requirements.txt</code> file included in the project. Follow these steps:</p>
-        <ol>
-            <li>Clone the repository:</li>
-            <pre><code>git clone https://github.com/yourusername/yourrepository.git</code></pre>
-            <li>Navigate to the project directory:</li>
-            <pre><code>cd yourrepository</code></pre>
-            <li>Install the required packages using pip:</li>
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </ol>
-    </div>
+The **Math Swiss Army Knife** is a Python script designed to provide a comprehensive suite of mathematical operations for students and math enthusiasts. This tool aims to simplify matrix operations, solve equations, and perform various mathematical calculations all in one place. It is particularly useful for those who need quick and easy access to mathematical functionalities without the hassle of dealing with complex libraries.
 
-    <div class="section">
-        <h2>How to Use</h2>
-        <p>After installing the necessary libraries, you can run the script by executing:</p>
-        <pre><code>python main.py</code></pre>
-        <p>The script will prompt you to select various matrix operations and input matrices as needed. Follow the on-screen instructions for each operation.</p>
-        
-        <div class="image-container">
-            <h3>Examples of Running the Program</h3>
-            <img src="images/initial_menu.png" alt="Initial Menu">
-            <img src="images/matrix_sum_example.png" alt="Matrix Sum Example">
-            <img src="images/matrix_transpose_example.png" alt="Matrix Transpose Example">
-        </div>
-    </div>
+## Features
 
-    <div class="section">
-        <h2>Contributing</h2>
-        <p>This project is still under development and is open for contributions. If you would like to contribute, please fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!</p>
-    </div>
+- Matrix Operations: Addition, Subtraction, Scalar Multiplication, Transposition, Determinant, Inverse, and more.
+- User-friendly interface with clear instructions for input.
+- Supports various matrix formats and calculations.
 
-    <div class="section">
-        <h2>Disclaimer</h2>
-        <p>This project is currently incomplete and is under active development. The functionality may change, and additional features may be added in the future.</p>
-    </div>
+## Installation
 
-</body>
-</html>
+To use this tool, you'll need to install the required Python packages. Follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
+
+
+## How to Use
+
+2. **nstall the Required Packages:**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Script:**
+    ```bash
+   python main.py
+    
+4. **Follow the On-Screen Instructions**
+   <p align="center">
+  <img src="https://briefer.pro/images/pictures/blog/victorinox-5.jpeg" alt="Math Swiss Army Knife" width="400" height="375"/>
+</p>
+
+<p align="center">
+  <img src="https://briefer.pro/images/pictures/blog/victorinox-5.jpeg" alt="Math Swiss Army Knife" width="400" height="375"/>
+</p>
+
+
+## Project Status
+
+* Incomplete: This project is still under development and is continuously being updated with new features and improvements.
+* Open for Contributions: Contributions are welcome! Feel free to submit issues, improvements, or pull requests.
