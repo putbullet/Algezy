@@ -21,8 +21,8 @@ You'll need to install the required Python packages to use this tool. Follow the
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/putbullet/Algezy.git
+   cd Algezy
 
 
 ## How to Use
